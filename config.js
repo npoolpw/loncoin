@@ -1,8 +1,8 @@
-var api = "http://apihost.com:port";
+var api = "http://lcn.npool.pw:10050";
 
-var poolHost = "apihost.com";
+var poolHost = "lcn.npool.pw";
 
-var blockExplorer = "http://blockexplorer.pw/coin";
+var blockExplorer = "http://blockexplorer.pw/lcn";
 
 var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
 
@@ -15,5 +15,6 @@ var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchai
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["coin.apihost.com", "http://coin.apihost.com:port"],
+        ["pool.loncoin.net", "http://pool.loncoin.net:8117"],
+        ["lcn.npool.pw", "http://lcn.npool.pw:10050"]
 ];
