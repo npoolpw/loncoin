@@ -17,5 +17,5 @@ var themeCss = "themes/default-theme.css";
 var networkStat = [
         ["pool.loncoin.net", "http://pool.loncoin.net:8117"],
         ["lcn.npool.pw", "http://lcn.npool.pw:10050"],
-        ["lcn.hashpool.frl", "lcn.hashpool.frl:18091"]
+        ["lcn.hashpool.frl", "http://lcn.hashpool.frl:8124"]
 ];
